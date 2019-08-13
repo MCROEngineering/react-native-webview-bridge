@@ -35,9 +35,7 @@ var {
   }
 } = ReactNative;
 
-var {
-  WebView,
-} = require('react-native-webview');
+var WebView = require('react-native-webview');
 
 var RCT_WEBVIEWBRIDGE_REF = 'webviewbridge';
 

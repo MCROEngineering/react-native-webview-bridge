@@ -36,9 +36,7 @@ var {
   }
 } = ReactNative;
 
-var {
-  WebView,
-} = require('react-native-webview');
+var WebView = require('react-native-webview');
 
 var BGWASH = 'rgba(255,255,255,0.8)';
 var RCT_WEBVIEWBRIDGE_REF = 'webviewbridge';
